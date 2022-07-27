@@ -388,8 +388,8 @@ header1{
 }
 .bx{
   position: relative;
-  width: 170px;
-  height: 180px;
+  width: 140px;
+  height: 150px;
   margin: 10px;
   border-radius: 20px;
   cursor: pointer;
@@ -413,7 +413,7 @@ table{
 }
 th,td{
   border: 0px solid #dddddd;
-  padding: 10px 15px;
+  padding: 10px 12px;
   font-size: 15px;
   
 }
@@ -427,7 +427,7 @@ tr:nth-child(odd){
 }
 td button{
   border:none;
-  padding: 9px 30px;
+  padding: 6px 20px;
   border-radius: 20px;
   background-color:#64bcf4;
   color:#f1f8fc;
@@ -435,7 +435,6 @@ td button{
 td button:hover {
   cursor: pointer;
   background-color:  #5bacdf ;
-
   cursor: pointer;
 }
 .Student_table{
